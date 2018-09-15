@@ -1,0 +1,1 @@
+"use strict";require(["config"],function(){require(["border"],function(i){i.init()})});

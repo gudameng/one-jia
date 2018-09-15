@@ -1,0 +1,1 @@
+"use strict";define(function(){return new function n(){n.prototype.init=function(){$("#border").load("/html/component/border.html",function(){})}}});
